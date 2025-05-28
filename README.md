@@ -21,3 +21,9 @@ This Data Analysis project aims to generate insight into the sales performance o
 - SQL Server (for Querying and Analysis)
 - PowerBI (for reating report)
 - MS PowerPoint (for presentation)
+
+``` SQL
+SELECT A,B,C
+WHERE A> 15
+
+```
