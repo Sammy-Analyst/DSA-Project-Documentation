@@ -12,7 +12,7 @@ This Data Analysis project aims to generate insight into the sales performance o
 ### Project Overview
 
 ### Data Sources
-- Ms Excel for Data Cleaning (Download here)
+- Ms Excel for Data Cleaning [Download Here](https://www.microsoft.com/en-us/?msockid=3fce691cb789664302087c0eb6176706)
   - Data Collection
   - Data Cleaning
     1. Data Manipulation
@@ -22,8 +22,12 @@ This Data Analysis project aims to generate insight into the sales performance o
 - PowerBI (for reating report)
 - MS PowerPoint (for presentation)
 
+
+
 ``` SQL
 SELECT A,B,C
 WHERE A> 15
 
+
 ```
+![Sunday Supplier Selection](https://github.com/user-attachments/assets/4f10e188-2fa8-4873-8553-9e34eef8652a)
